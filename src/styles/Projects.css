@@ -1,0 +1,47 @@
+#projects {
+  position: relative;
+}
+
+#projects a {
+  position: absolute;
+  right: -6rem;
+  bottom: 2.3rem;
+  font-size: 2.5rem;
+}
+
+
+
+@media only screen and (max-width: 767px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  #projects {
+    top: 750px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .project-Title{
+    position: relative;
+    right: 30px;
+  }
+
+  .about-containers {
+    width: 100vw;
+  }
+
+  .swiper_container {
+    width: 120vw;
+    height: 20vh;
+  }
+
+  .swip {
+    position: relative;
+    top: -20vh;
+    z-index: 9999999;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {}
