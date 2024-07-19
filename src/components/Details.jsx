@@ -6,7 +6,7 @@ const Details = () => {
   return (
     <>
       <div className="about-details-container">
-        <div className="about-containers">
+        <div className="about-containers abouti">
           <div className="details-container">
             <PiCertificateFill className="icon" />
             <h3>Experience</h3>

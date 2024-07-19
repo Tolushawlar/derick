@@ -20,7 +20,8 @@
   #skills {
     flex-direction: column;
     align-items: center;
-    top: 45vh;
+    top: 500px;
+    margin-bottom: 50px;
   }
   .skills-details-container{
     position: relative;
@@ -30,4 +31,8 @@
   }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1024px) {}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  #skills{
+    margin-top: 200px !important;
+  }
+}

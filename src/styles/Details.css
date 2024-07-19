@@ -52,6 +52,35 @@
     bottom: 10vh;
   }
 
+  .about-details-container{
+position: relative;
+    bottom: 10px !important;
+  }
+
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1024px) {}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  #about{
+    margin: 0px;
+  }
+  .section-container {
+    width: 100vw;
+    justify-content: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .abouti {
+    display: flex !important;
+    flex-direction: row !important;
+    width: 400px;
+    align-items: center;
+    margin-top: 20px;
+  }
+
+  .text-container{
+    width: 400px;
+    text-align: justify;
+  }
+
+}

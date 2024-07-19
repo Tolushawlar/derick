@@ -35,23 +35,24 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-  }   
+  }
 
-  #about a{
+  #about a {
     position: relative;
     right: 0;
   }
 
-  .about-pic{
+  .about-pic {
     position: relative;
-    left: 8vw;
+    left: 50px;
   }
+
   .section-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     position: relative;
-    
+
   }
 }
 
