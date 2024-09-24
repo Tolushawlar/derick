@@ -10,7 +10,7 @@ const Contact = () => {
         <h1 className="title">Contact Me</h1>
         <div className="contact-info-upper-container">
           <div className="contact-info-container">
-            <TfiEmail className="icon contact-icon email-icon" />
+            {/* <TfiEmail className="icon contact-icon email-icon" /> */}
             <p>
               <a className="email" href="mailto:oluwasolaowoyemi.i@gmail.com">
                 oluwasolaowoyemi.i@gmail.com
@@ -24,7 +24,7 @@ const Contact = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaLinkedin />
+              {/* <FaLinkedin /> */}
             </a>
           </div>
         </div>

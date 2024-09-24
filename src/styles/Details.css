@@ -26,6 +26,10 @@
 
 @media only screen and (max-width: 767px) {
 
+  .details-container{
+    margin-top: 80px;
+  }
+
   .about-containers {
     display: flex;
     flex-direction: row !important;

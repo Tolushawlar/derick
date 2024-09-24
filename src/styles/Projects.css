@@ -46,10 +46,9 @@
 
   .swip {
     position: relative;
-    top: -25vh;
+    top: -20vh;
     z-index: 9999999;
     margin-bottom: 80px;
-    background-color: red;
   }
 
 }

@@ -10,13 +10,13 @@ const About = () => {
         <p className="section__text__p1">Get To Know More</p>
         <h1 className="title">About Me</h1>
         <div className="section-container">
-          <div className="section__pic-container">
+          {/* <div className="section__pic-container">
             <img
               src={`https://res.cloudinary.com/dtlxunbzr/image/upload/v1727186028/Me_utdbl8.jpg`}
               alt="Profile picture"
               className="about-pic"
             />
-          </div>
+          </div> */}
           <Details></Details>
         </div>
 

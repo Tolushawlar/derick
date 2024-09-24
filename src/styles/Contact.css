@@ -53,6 +53,10 @@
   .contact-info-upper-container{
     margin: 0px;
   }
+
+  .contact-info-upper-container{
+    width: 380px;
+  }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
