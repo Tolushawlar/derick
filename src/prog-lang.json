@@ -1,32 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Python",
+    "name": "Javascript",
     "level": "Experienced"
   },
   {
     "id": 2,
-    "name": "Java",
+    "name": "Python",
     "level": "Intermediate"
-  },
-  {
-    "id": 3,
-    "name": "Javascript",
-    "level": "Intermediate"
-  },
-  {
-    "id": 4,
-    "name": "Go",
-    "level": "Intermediate"
-  },
-  {
-    "id": 5,
-    "name": "C",
-    "level": "Familiar"
-  },
-  {
-    "id": 6,
-    "name": "R",
-    "level": "Familiar"
   }
 ]

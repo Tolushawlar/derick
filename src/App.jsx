@@ -7,6 +7,7 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import GitHubCalendar from "react-github-calendar";
 import "./App.css";
 
 function App() {
@@ -18,6 +19,13 @@ function App() {
         <Profile />
         <About />
         <Skills />
+        {/* <GitHubCalendar
+        username="Tolushawlar"
+        blockSize={15}
+        blockMargin={5}
+        color="#c084f5"
+        fontSize={16}
+      /> */}
         <Projects />
         <Contact />
         <Footer />

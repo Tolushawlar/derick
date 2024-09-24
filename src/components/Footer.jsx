@@ -23,7 +23,7 @@ const Footer = () => {
           </div>
         </nav>
         <p>
-          Copyright &#169; {currentYear} Full name here. All Rights
+          Copyright &#169; {currentYear} Olusola Itunu. All Rights
           Reserved.
         </p>
       </footer>

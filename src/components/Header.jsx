@@ -4,7 +4,7 @@ const Header = () => {
     <>
       <header>
         <nav className="desktop-nav">
-          <div className="logo">Full name here</div>
+          <div className="logo">Olusola Itunu</div>
           <div>
             <ul className="nav-links">
               <li>

@@ -11,7 +11,7 @@ const Hamburger = () => {
 
   return (
     <nav className="hamburger-nav">
-      <div className="logo">Full name here</div>
+      <div className="logo">Olusola Itunu</div>
       <div className="hamburger-menu">
         <div className="hamburger-icon" onClick={toggleMenu}>
           {isMenuOpen ? <FaTimes /> : <FaBars />}

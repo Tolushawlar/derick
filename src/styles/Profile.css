@@ -17,7 +17,9 @@
 }
 
 .section__pic-container .home-profile {
-  height: 95%;
+  height: 400px;
+  width: 330px;
+  border-radius: 80%;
 }
 
 .section__text {
@@ -60,6 +62,8 @@
 .btn-color-2 {
   border: rgb(53, 53, 53) 0.1rem solid;
   background: none;
+  width: auto;
+  padding: auto;
 }
 
 .btn-color-1 {
@@ -87,6 +91,9 @@
   gap: 1rem;
 }
 
+button {
+  padding: 15px !important;
+}
 
 @media only screen and (max-width: 767px) {
   body {
@@ -96,6 +103,21 @@
   .profile {
     flex-direction: column;
     align-items: center;
+  }
+
+  .btn-color-2 {
+    width: auto;
+  }
+
+  button {
+    padding: 10px !important;
+  }
+
+  .section__pic-container .home-profile {
+    align-content: center;
+    height: 400px;
+    width: 350px;
+    border-radius: 80%;
   }
 }
 

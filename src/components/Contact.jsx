@@ -12,15 +12,15 @@ const Contact = () => {
           <div className="contact-info-container">
             <TfiEmail className="icon contact-icon email-icon" />
             <p>
-              <a className="email" href="mailto:loremipsum@gmail.com">
-                loremipsum@gmail.com
+              <a className="email" href="mailto:oluwasolaowoyemi.i@gmail.com">
+                oluwasolaowoyemi.i@gmail.com
               </a>
             </p>
           </div>
           <div className="contact-info-container">
             <a
               className="linkedin"
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/in/olusola-itunu"
               target="_blank"
               rel="noopener noreferrer"
             >

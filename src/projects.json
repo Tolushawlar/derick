@@ -1,46 +1,46 @@
 [
   {
     "id": 0,
-    "media": "./assets/realm-of-steel.png",
-    "name": "Realm Of Steel",
-    "github-link": "https://github.com/derrick-code11/Realm-Of-Steel",
-    "demo-link": "https://realm-of-steel01.netlify.app/ "
+    "media": "https://res.cloudinary.com/dtlxunbzr/image/upload/v1727210757/Screenshot_282_ch4zfv.png",
+    "name": "NutraSpices",
+    "github-link": "https://github.com/Tolushawlar/nutra",
+    "demo-link": "https://nutraspices.com.ng/ "
   },
   {
     "id": 1,
-    "media": "./assets/blackscipioneers.png",
-    "name": "BlackSciPioneers",
-    "github-link": "https://github.com/derrick-code11/BlackSciPioneers",
-    "demo-link": "https://blacksci.netlify.app/"
+    "media": "https://res.cloudinary.com/dtlxunbzr/image/upload/v1727211157/Screenshot_283_omnnc0.png",
+    "name": "Tape Wear",
+    "github-link": "https://github.com/Tolushawlar/tape",
+    "demo-link": "https://tape-lemon.vercel.app/"
   },
   {
     "id": 2,
-    "media": "./assets/forestfiresim.png",
-    "name": "Forest Fire Simulation",
-    "github-link": "https://github.com/derrick-code11/ForestFireSim-22",
-    "demo-link": ""
+    "media": "https://res.cloudinary.com/dtlxunbzr/image/upload/v1727211369/Screenshot_284_veavz4.png",
+    "name": "BrintSchool",
+    "github-link": "https://github.com/Tolushawlar/metright",
+    "demo-link": "https://brint.onrender.com/adminHome/"
   },
   {
     "id": 3,
-    "media": "./assets/coming-soon.png",
-    "name": "Coming Soon",
-    "github-link": "https://github.com/derrick-code11/",
-    "demo-link": ""
+    "media": "https://res.cloudinary.com/dtlxunbzr/image/upload/v1727211550/Screenshot_286_a0nvzn.png",
+    "name": "BeachResort",
+    "github-link": "https://github.com/Tolushawlar/resort",
+    "demo-link": "https://bearesort.netlify.app/"
   },
 
   {
     "id": 4,
-    "media": "./assets/coming-soon.png",
-    "name": "Coming Soon",
-    "github-link": "https://github.com/derrick-code11/",
-    "demo-link": ""
+    "media": "https://res.cloudinary.com/dtlxunbzr/image/upload/v1727211543/Screenshot_285_kkrkr7.png",
+    "name": "Bamzi",
+    "github-link": "#",
+    "demo-link": "https://bamzi.ivyarc.com/"
   },
 
   {
     "id": 5,
-    "media": "./assets/coming-soon.png",
-    "name": "Coming Soon",
-    "github-link": "https://github.com/derrick-code11/",
-    "demo-link": ""
+    "media": "https://res.cloudinary.com/dtlxunbzr/image/upload/v1727211543/Screenshot_287_wkpzpq.png",
+    "name": "Kabukabs",
+    "github-link": "https://github.com/Kabukabs/Backend-team-",
+    "demo-link": "https://documenter.getpostman.com/view/10628581/2sAXjQ2W2C"
   }
 ]

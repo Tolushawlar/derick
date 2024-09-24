@@ -12,7 +12,7 @@ const About = () => {
         <div className="section-container">
           <div className="section__pic-container">
             <img
-              src={aboutProfilePic}
+              src={`https://res.cloudinary.com/dtlxunbzr/image/upload/v1727186028/Me_utdbl8.jpg`}
               alt="Profile picture"
               className="about-pic"
             />

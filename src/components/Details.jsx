@@ -11,7 +11,7 @@ const Details = () => {
             <PiCertificateFill className="icon" />
             <h3>Experience</h3>
             <p>
-              2+ years <br />
+              3+ years <br />
               Software Development
             </p>
           </div>
@@ -19,26 +19,15 @@ const Details = () => {
             <IoSchoolSharp className="icon" />
             <h3>Education</h3>
             <p>
-              BA Computer Science
+              Federal University of Technology
               <br />
-              Some School
+              Akure, Nigeria.
             </p>
           </div>
         </div>
         <div className="text-container">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet
-            consectetur adipiscing elit ut aliquam purus sit. Auctor eu augue ut
-            lectus. Fusce id velit ut tortor pretium viverra. At imperdiet dui
-            accumsan sit amet. Cursus euismod quis viverra nibh cras. Fermentum
-            posuere urna nec tincidunt praesent semper feugiat. Vitae nunc sed
-            velit dignissim sodales ut eu sem. Diam sit amet nisl suscipit
-            adipiscing bibendum est ultricies. Morbi tempus iaculis urna id
-            volutpat lacus. Mauris cursus mattis molestie a iaculis at erat
-            pellentesque adipiscing. Nibh praesent tristique magna sit amet.
-            Mauris rhoncus aenean vel elit scelerisque mauris. Mattis nunc sed
-            blandit libero volutpat. Sed velit dignissim sodales ut eu.
+            I have a strong background in building robust, scalable, and user-focused web applications using MongoDB, Express, React, and Node.js. I specialize in crafting efficient full stack solutions, from dynamic front-end interfaces to secure and high-performing back-end systems, ready to solve complex problems and deliver quality products that drive success.
           </p>
         </div>
       </div>
